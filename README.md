@@ -1,0 +1,2 @@
+# LogClean
+clean log file
